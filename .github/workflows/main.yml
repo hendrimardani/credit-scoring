@@ -9,7 +9,7 @@ on:
       - main
  
 env:
-  CSV_URL: "MLproject/clean_data.csv"
+  CSV_URL: "MLproject/train_pca.csv"
   TARGET_VAR: "Status"
   ALPHA: 0.5
   L1_RATIO: 0.5
