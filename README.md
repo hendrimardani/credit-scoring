@@ -4,5 +4,5 @@
 
 ```python
 python modellingopt.py
-mlflow server
+python -m mlflow server
 ```
